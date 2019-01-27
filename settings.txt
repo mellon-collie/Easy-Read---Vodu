@@ -1,0 +1,4 @@
+fontsize=48
+fonttype=Calibri
+linespacing=5
+wordspacing=10
