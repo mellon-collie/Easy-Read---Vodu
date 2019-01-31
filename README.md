@@ -26,7 +26,7 @@ The uploaded files are the EasyRead.py, ICON.ico, settings.txt and this file.
      Right click on settings.txt and open Properties. Copy the file path of
      file. Open EasyRead.spec and within the Analysis instance declaration,
      go to the 'datas' attribute. The 'datas' attribute is currently assigned to
-     an empty list. Now add a tuple ('copied_file_path_of_settings\settings.txt','.') to the list. Similarly do the follow the same steps for      Guide.txt -('copied_file_path_of_Guide\Guide.txt','.')
+     an empty list. Now add a tuple ('copied_file_path_of_settings\settings.txt','.') to the list. Similarly follow the same steps for      Guide.txt -('copied_file_path_of_Guide\Guide.txt','.')
 	
   3) Now, click on dist, and then click on EasyRead (basically dist/EasyRead)
   
